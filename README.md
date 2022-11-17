@@ -9,11 +9,15 @@
 1.  [VSC Download link](https://code.visualstudio.com/download).
 2.  Install it to use.
 
-### Step 3: Clone project to your device
+### Step 3: Download NodeJs
+1.  [NodeJs Download link](https://nodejs.org/en/)
+2.  Install it to use
+
+### Step 4: Clone project to your device
 1.  Scroll to the top of project and you will see the green button `Code`.
 2.  Choose `HTTPS` then copy the link.
 3.  Open Visual Studio Code an press `'Ctrl' + '~'` to open terminal
 4.  Type this command: `git clone` + HTTPS link you copy.
 
-### Step 4: Download and open Cypress
-1.  In terminal type: `npx cypress open`
+### Step 5: Download and open Cypress
+1.  In terminal type: `npm run start`
