@@ -20,4 +20,4 @@
 4.  Type this command: `git clone` + HTTPS link you copy.
 
 ### Step 5: Download and open Cypress
-1.  In terminal type: `npx run start`
+1.  In terminal type: `npm run start`
