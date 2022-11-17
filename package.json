@@ -1,0 +1,19 @@
+{
+  "name": "mini-project-using-cypress",
+  "version": "1.0.0",
+  "description": "## Setup ### Step 1: Download and install by following link 1.  [Git Download link](https://git-scm.com/downloads). 2.  [Git Install link](https://www.thegioididong.com/game-app/huong-dan-cach-tai-cai-dat-cau-hinh-git-tren-laptop-may-tinh-1299681#:~:text=c%C3%A0i%20%C4%91%E1%BA%B7t%20Git-,1.,%3E%20Ch%E1%BB%8Dn%20Install%20%3E%20Nh%E1%BA%A5n%20Finish.).",
+  "main": "cypress.config.js",
+  "scripts": {
+    "start": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DU21-Frontend/Mini-project-using-cypress.git"
+  },
+  "author": "Hai Cool",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DU21-Frontend/Mini-project-using-cypress/issues"
+  },
+  "homepage": "https://github.com/DU21-Frontend/Mini-project-using-cypress#readme"
+}
